@@ -1,0 +1,16 @@
+/home/jdamon/Projects/shm_example/tests/test1.cpp
+/home/jdamon/Projects/shm_example/tests/#test1.cpp#
+/home/jdamon/Projects/shm_example/src/device.c
+/home/jdamon/Projects/shm_example/src/#device.c#
+/home/jdamon/Projects/shm_example/src/device.h
+/home/jdamon/Projects/shm_example/src/#device.h#
+/home/jdamon/Projects/shm_example/CMakeLists.txt
+/home/jdamon/Projects/shm_example/#CMakeLists.txt#
+/home/jdamon/Projects/shm_example/src/tmp2.h
+/home/jdamon/Projects/shm_example/src/#tmp2.h#
+/home/jdamon/Projects/shm_example/src/tmp2.c
+/home/jdamon/Projects/shm_example/src/#tmp2.c#
+/home/jdamon/Projects/aiousb_patrick_mcbride_issue/AIOUSB/AIOUSB/lib/AIODeviceTable.c
+/home/jdamon/Projects/aiousb_patrick_mcbride_issue/AIOUSB/AIOUSB/lib/#AIODeviceTable.c#
+/home/jdamon/Projects/aiousb_patrick_mcbride_issue/AIOUSB/AIOUSB/lib/AIOUSB_Properties.c
+/home/jdamon/Projects/aiousb_patrick_mcbride_issue/AIOUSB/AIOUSB/lib/#AIOUSB_Properties.c#
